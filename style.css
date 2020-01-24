@@ -211,6 +211,16 @@ audio {
   width: 200px;
 }
 
+#submitButton {
+  margin: 5px 35px auto auto;
+  display: block;
+}
+
+#searchButton {
+  width: 100px;
+  margin: 0 5px;
+}
+
 .comment-form input, .comment-form label, .show-hide {
   font-size: 1.6rem;
   line-height: 32px;
